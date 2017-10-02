@@ -1,0 +1,58 @@
+CSC 244
+HW 1
+How_to_run (Tested on personal ubuntu and atoz, java 7 or higher required to run)
+
+Karan Mitra
+219032620
+
+The code can be run by ensuring the following four files are in the same directory - 
+	1. BagIntersection.java
+	2. Tuple.java
+	3. Block.java
+	4. MemoryBlock.java
+
+Run the following commands on a linux terminal or dos terminal - 
+
+javac BagIntersection.java
+java BagIntersection
+
+The command line prompts you for the user inputs that need to be given
+Final output is reported on console
+
+Test case to run - 
+
+$:java BagIntersection
+
+Enter the number of tuples for R: 
+7
+Enter values for x,y,z of tuple(R)
+1 1 1
+Enter values for x,y,z of tuple(R)
+2 2 2
+Enter values for x,y,z of tuple(R)
+2 2 2
+Enter values for x,y,z of tuple(R)
+1 2 3
+Enter values for x,y,z of tuple(R)
+2 3 4
+Enter values for x,y,z of tuple(R)
+1 2 3
+Enter values for x,y,z of tuple(R)
+3 4 5
+
+
+
+
+Enter the number of tuples for S: 
+5
+Enter values for x,y,z of tuple(S)
+2 2 2
+Enter values for x,y,z of tuple(S)
+2 2 2
+Enter values for x,y,z of tuple(S)
+2 3 4
+Enter values for x,y,z of tuple(S)
+1 2 3
+Enter values for x,y,z of tuple(S)
+1 2 3
+
